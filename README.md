@@ -1,2 +1,2 @@
 # NormalVSuniform_distribution
-- Some code and pdf file above.
+- Colab notebook and pdf file above.
